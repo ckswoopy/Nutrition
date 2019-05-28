@@ -8,6 +8,7 @@
 * Soak beans for `24+ hours` 
     * add < 1/4 teaspoon (15g) baking soda (optional)
     * pre-boil beans for 1 minute before 24-hr soaking (optional)
+    	* alternatively soak 12 hours (or until germination), then pre-boil and then re-soak 12 hours
     
 #### Cooking
 * Boil or Steam until soybeans are <u>**extremely**</u> `soft`
