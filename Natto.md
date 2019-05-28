@@ -49,7 +49,7 @@
 * Save any extra boiled water to add moisture during fermentation
     * Check on fermentation (after `12-16 hours`), add saved water as necessary
     * If too much water still submerges bottom layer beans, pour excess water
-    * If we don't use the solution during fermentation, can add it after done
+    * If we don't use extra water during fermentation, can add during aging process
 * Ferment for 20-24 hours to complete a normal cycle
     * For more pungent and stronger flavor, ferment up to 36 hours
     * Alternatively, after 24 hours, let sit with yogurt maker turned off
