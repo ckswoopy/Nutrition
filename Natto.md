@@ -14,10 +14,10 @@
 * Boil or Steam until soybeans are <u>**extremely**</u> `soft`
     * Boiling may take 3 hours on low heat
     * Steaming may take 6 hours on low heat
-* Sterilize utensils in the boiling pot for 5 minutes before turning off heat
+* Sterilize utensils in the boiling pot for about one minute before turning off heat
 
 #### Prepare Cooked Beans
-* While beans are **still hot**:
+* While beans are **still boiling hot**:
     * immediately stir evenly `1/2 spoon of molasses` (provides nutrients)
 	* split the beans into `four` parts:
 		* One (1) yogurt-maker container
@@ -28,8 +28,8 @@
 	    * ideally straw-type or cloth corrugated container surface for airflow
 
 #### Inoculate Cooked Beans with Bacteria
-* Add `live natto starter` to still hot boiled beans
-    * Good idea to save 10-20% of previous fermented batch as live starter
+* Add `live natto starter` to still very warm boiled beans [70C is OK]
+    * Good idea to always save 10-20% of previous natto batch as live starter
     * While waiting for the next steps, keep containers covered
 * Save boiled water to make starter solution-- 
 	* immediately dissolve:
@@ -185,7 +185,73 @@
 
 ## Natto Recipes
 
+**Natto and Rice:** White steamed or fried rice (even mixed grains: brown, red and black rices, millet, barley). For fried rice, any leftovers can add to the mix such as roasted pork, veggies, eggs, sausages ... all topped with raw natto. Sushi-type rice (with sweet/sour taste and lots of resistant starches) is even better. Can be topped with dried bonito flakes or sesame seeds. Wasabi, cheese, mayonnaise, nori (seaweed), perilla leaves or umeboshi (pickled plums) are good additions. Pepper chilies or tuna go great with natto on rice.
 
+**Natto on Noodles:** Natto mixed with white noodles of any kind (even ramen), whether with soup or just drained on a plate is wonderfully basic. Can add small portions of meat and vegetables or seaweed. If soup, a bit of miso and tofu is a perfect compliment.
+
+**Natto Spaghetti:** Fry some garlic and onion in a pan with olive oil. Cook spaghetti accordingly for best texture and taste. Add the spaghetti noodles to the pan and cook. Mix well with the onions and serve with a portion of natto on top. Can also add tomato or Bolognese sauces.
+
+**Kimchi Natto:** Mixing kimchi with a serving of natto and serve on a bed of freshly steamed Japanese rice, with a soft boiled egg on the side. This is a deliciously strong and intensely flavored way to enjoy natto.
+
+**Natto and Eggs:** Add natto on top of egg (prepared in any way: fried, sunny-side up, poached, scrambled, hard boiled, pickled, raw).
+
+**Natto Omelet:** Add a portion of natto to hot oil in a pan, and brown it quickly before the inclusion of soy sauce and a beaten egg. Can add optional vegetables, mushrooms or salty meats as omelet stuffing. Let cool a bit, then add a portion of raw natto on top of the omelet. Can also top it all with some cheese (such as parmesan). Also can top with natural honey or a bit of ketchup for those who like a little bit of sweetness.
+
+**Ground pork with natto:** Add just a touch of sesame and vegetable oils to a saucepan and quickly fry grated ginger. Next comes ground pork, browned until almost cooked through. Turn off the stove. Add chopped green onion, sake, soy sauce, tofu (optional) and natto to the pork and let simmer together gently in the residual heat.
+
+**Stuffed Peppers and Tofu Pouches:** Ground pork stuffed in peppers or tofu, with natto as topping.
+
+**Natto Pizza or Flatbread:** Added to pizzas and flat breads.
+
+**Natto Burgers:** Add to hamburgers as a topping (along with other fatty toppings like avocado and bacon).
+
+**Natto Bread:** Sourdough, rye and multi-grain breads. Sweet breads. Pretzels and bagels. Can also enjoy in sandwiches, along with pickles, olives and onions.
+
+**Natto Toast:** Dried toast. Also can be enjoyed on French toast.
+
+### **Fresh vegetables that work well with natto:**
+
+* Leeks
+* Chives
+* Garlic Stems (Scapes)
+* Cilantro and parsley
+* Basil
+* Scallions
+* Shallot
+* Dill
+
+### **Condiments and spices that work well with natto:**
+
+* Tare (a sweetened soy sauce)
+* Chinese mustard
+* Ketchup
+* Mint Sauce
+* Horseradish or Wasabi
+* Apple Cider Vinegar
+* Chopped green onion
+* Dried seaweed
+* Pickled ginger
+* Black garlic
+* Salt or pepper
+* Turmeric
+* Ground papaya seeds
+* Rosemary or thyme
+* Oregano
+* Olive, tea, sesame oils
+
+### **Weird taste mixes for the adventurous:**
+
+* Banana
+* Apple
+* Durian and jackfruit
+* Cheeses (including cottage)
+* Chocolate
+* Corn flakes, granola and other cereals
+* Egg tarts and donuts
+* Peanut and almond butters
+* Coconut milk
+* Nachos and tacos
+* Mashed potatoes and gravy
 
 ## Links
 
