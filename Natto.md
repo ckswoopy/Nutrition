@@ -9,7 +9,8 @@
     * add < 1/4 teaspoon (15g) baking soda (optional)
     * pre-boil beans for 1 minute before 24-hr soaking (optional)
     	* alternatively soak 12 hours (or until germination-- looks cloudy), then pre-boil and then re-soak 12 hours
-    
+    	* add some seaweed to the soak to help breakdown starch
+
 #### Cooking
 * Boil or Steam until soybeans are <u>**extremely**</u> `soft`
     * Boiling may take 3 hours on low heat
@@ -82,14 +83,57 @@
 
 **Yearly Savings:** > $2,500 HKD
 
-### Experimental additional ingredients to supply biotin:
-* Red beet
-* Sweet potato
-* Oatmeal
-* Banana
-* Rice
+## Experimental Additional Ingredients
+
+To supply more biotin for the natto cultures to grow, we can add a little of the following:
+
+* Red beet juice
+* Sweet potato mash
+* Steamed Oatmeal
+* Crushed Banana
+* Cooked Rice
 * Egg
 * Miso
+* Cooked Seaweed
+
+## Hikiwari Natto Variant
+
+Hikiwari natto uses most of the same procedure as making regular natto, but we will crush **all** beans into `small pieces` after cooking.
+
+Hikiwari is easy to digest and richer in `Vitamin K2`, which helps the human body absorb calcium efficiently, as compared to the whole-bean Natto. Hikiwari can be stickier in texture with more stringiness, thus providing more `nattokinase` enzymes.
+
+The time of hikiwari fermentation can be less (approximately 15-20 hours), but some people will like to ferment for the full 24 hours to get stronger flavors and more K2 and nattokinase production by the bacteria.
+
+Traditionally, Hikiwari was split or cracked during roasting before boiling the soybeans to save on cooking time.
+
+## Barley Natto and Brown Rice Natto Variant
+
+Although no soybeans are used, barley or brown rice are cooked in the liquid left over after cooking soybeans for regular natto. 
+
+The grains are then incubated like soy natto.
+
+The soybean liquid gives the grain natto a stringy consistency, but it has no natto smell and provides a light nutty taste that is perfect for bread-based breakfasts.
+
+This grain dish is perfect to provide an extra amount of resistant starch and can be kept in the refrigerator without spoilage. 
+
+You can also add some salt and honey for longer-term preservation, and to provide more safety against food-borne pathogens during storage.
+
+## Thua Nao (Thai) Variant
+
+Thua Nao is especially popular in areas where fish are scarce, they are used like fermented fish to flavor and thickening to curries, savory vegetable soups and chili-hot dishes. In some areas they are used as basic staples in the diet rather than merely as seasonings. 
+
+To make traditional thua-nao, clean whole soybeans are soaked overnight, boiled for 3-4 hours, transferred to a bamboo basket lined with banana leaves, covered with additional banana leaves, exposed to sunlight, and fermented at 40-42*C for 2-3 days.
+
+The wild fermentation is activated by naturally occurring bacillus subtilis bacteria, but one can use natto as a starter. To make a raw thua-nao paste, the raw thua-nao is mashed lightly with:
+
+* salt 
+* garlic
+* onion
+* red chilies
+
+Small portions of this are wrapped in banana leaves (in sausage shapes) and steamed at atmospheric pressure or roasted over an open fire for about 30 minutes to make cooked thua nao paste (thua merk), which is used as a seasoning with rice. Containing 52.5% moisture and 16.9% protein, it will keep for 2-3 days. 
+
+For longer storage, raw thua-nao paste is formed into small balls (each 1 to 1 1/2 inches in diameter), which are pressed into paper-thin, 3-inch diameter rounds that are sun-dried to make thua-nao chips (thua-kab). Containing 17.8% moisture and 36.8% protein, thua-nao chips will keep for about 6 months.
 
 ## Natto Q&A
 
@@ -253,6 +297,36 @@
 * Nachos and tacos
 * Mashed potatoes and gravy
 
+## Natto Daily Staple Meals
+
+**Breaking the Fast [10-11AM]**
+
+Usually after morning cardiovascular exercise:
+
+* Natto
+* Sushi Rice or Toast
+* Egg
+* Kimchi
+* Seaweed
+* Green Banana or other fresh fruit
+* Avocado (if in season)
+
+**Main Meal [3-4PM]**
+
+Usually after body weight training:
+
+* Natto
+* White Rice or Fermented Rice
+* Kimchi
+* Meat based protein (see below)
+* Green Leafy Vegetable and/or Root Vegetable
+* Onions, Ginger or Garlic
+* Small portion of fruit, seeds and nuts
+
+**Meats:** 
+
+    [Fish, Chicken, Duck, Pork, Beef, Lamb, Scallop, Shrimp, Crocodile, Organ Meats]
+
 ## Links
 
 References: 
@@ -262,3 +336,5 @@ References:
 * [About Natto](http://www.meguminatto.com/about_natto.html)
 
 * [How Natto is Made](http://www.natto.or.jp/english/make/index.html)
+
+* [Natto Variants](http://www.soyinfocenter.com/HSS/natto1.php)
