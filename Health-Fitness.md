@@ -207,6 +207,7 @@ Usually one to two hours after body weight training, after circadian noon dip:
 		* Helps colonic bacteria with producing `Butyrate`
 	* Mints (Peppermint, Holy Basil)
 		* Helps muscle and `tissue relaxation`
+	* `Fish Oil` (Omega-3)
 	* Enzyme Rotation (one each day)
 		* Catabolic breakdown of proteins and fiberous tissues
             * Serrapeptase
@@ -250,7 +251,6 @@ Usually one to two hours after body weight training, after circadian noon dip:
 * `L-Glutamine`&rarr; GABA : Protein Binder
 * `NAC` (N-Acetyl Cysteine) &rarr; Glutathione: Promotes repair
 * `GABA` (Gamma-Aminobutyric Acid)
-* `Fish Oil` (Omega-3) &rarr; Serotonin
 * `Chlorella` (Chelation)
 
 **Complete Rest/Fast Days:**
