@@ -33,15 +33,24 @@
 * Darken bedroom
 * Wear eye mask to bed
 * Wear ear plugs to bed
+* Rub menthol on nose to relax nasal air passage during sleep
+* Use cool pillow and sleep nude during Summer
+* Wear socks to help circulation to feet and legs
+* Wear gloves to help circulation to arms and hands
+* Wear mouth guard
 
-**Meditation:**
+**Meditation and Routine:**
 
 * Before Sleep
-	* Binaural Beats
-	* Directed Release
+	* Binaural Beats and Music
+	* Directed Muscular Massage and Release
+	* Lucid Dreaming Thoughtfulness
+	* Moisturize Face and Body
 * After Waking-up
 	* Deep Breathing
-	* Music
+	* Stretching
+	* Rhythmic Music
+	* Moisturize face and body
 
 > **Weekly Rest and Sleep Hours:** (8x7) = 56 : **Total = 63 Hours (including prep)**
 
@@ -57,10 +66,14 @@
 
 * **Routine #1 [Good/Workout Days - 3 per week]:**
     * **Morning Walk - Beach (30 min, 2km):** 7:00-7:30AM
-    * **HIIT Cardio Workout (30 min):** 9:00-9:30AM
+    * **HIIT Style Cardio Workout (30 min):** 9:00-9:30AM
+    	* Jump Ropes and Sprints
+    	* Pull-ups, Push-up, Squats, Lunges, Planks
+    	* Stretching
     * **Morning Walk - Central Park/Library (30 min, 3km):** 9:30-10:30AM
     * **Afternoon Walk (30 min, 2km):** 1:30-2:00PM
     * **Afternoon Body-weight Exercise (30 min):** 2:00-2:30PM
+    	* To absolute failure: Pull-ups, Push-ups, Squats, Lunges, Planks
     * **Shower/Walk Home (30 min, 2km):** 2:30-3:00PM
         * **Total Walk:** 9km, 2 hours
         * **Total Workout:** 1 hour
@@ -68,7 +81,7 @@
         * **Total Housework:** 2 hours
 
 * **Routine #2 [Bad/Rest Days - 4 per week]:**
-    * **Morning Swim/Clam Digging (Ocean):** 7:30AM-8:00AM
+    * **Morning Swim (Ocean):** 7:30AM-8:00AM
     * **Afternoon Walk - Beach + Sun Exposure (30 min, 2km):** 12:00-12:30PM
         * **Total Walk:** 2km, 30 minutes
         * **Total Workout:** 15 minutes
